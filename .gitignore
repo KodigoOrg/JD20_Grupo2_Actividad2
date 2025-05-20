@@ -1,0 +1,14 @@
+# Carpetas de configuración de IntelliJ IDEA
+.idea/
+*.iml
+
+# Salida de compilación
+/out/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de log y temporales
+*.log
+*.swp
